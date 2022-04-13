@@ -1,1 +1,7 @@
-abc
+<!doctype html>
+<html>
+<head>
+<title> Basic calculator </title>
+</head>
+<body>
+</html>
